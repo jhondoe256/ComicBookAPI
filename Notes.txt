@@ -1,0 +1,7 @@
+1. Make webAPI
+2. n-tier 
+    A. Data -> set up tables ( using code) -> create Migrations
+    b. Models -> what do we want to show users
+    C. Services -> Does the HEAVY LIFTING -> No more FAT Controllers!!!
+        1. Add Scoped lifespan to Interfances,Objs
+    D. Controllers(Api layer)
